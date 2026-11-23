@@ -1,0 +1,551 @@
+text,sentiment
+The villagers met near the community hall.,neutral
+The product is available in blue and black.,neutral
+I slept badly and woke up feeling exhausted.,negative
+I am happy with the progress I made today.,positive
+The service is available from Monday to Friday.,neutral
+The hotel is beside the main road.,neutral
+The service made a simple task frustrating.,negative
+I am disappointed with my progress today.,negative
+The village festival was beautiful and full of joy.,positive
+Our team argued instead of working together.,negative
+My garden has tomatoes and mint plants.,neutral
+The repair was done properly on the first visit.,positive
+My manager assigned me a new task.,neutral
+The exam was easier than I expected and I did well.,positive
+The bus driver was impatient and drove recklessly.,negative
+The class begins after lunch.,neutral
+The product packaging lists the ingredients.,neutral
+The film tells the story of a family.,neutral
+The village road is full of potholes and unsafe.,negative
+The new feature does not work properly.,negative
+The service exceeded my expectations.,positive
+The meal was stale and made me feel sick.,negative
+The event will take place in the school ground.,neutral
+The concert starts at seven in the evening.,neutral
+I felt lonely during my visit to the village.,negative
+My colleagues are supportive and easy to work with.,positive
+I spoke with my old friend yesterday.,neutral
+The team received the project brief today.,neutral
+The repair failed and the same problem returned.,negative
+The recipe requires two cups of flour.,neutral
+The delivery arrived early and everything was in good condition.,positive
+The software crashes and causes me to lose work.,negative
+"The service was polite, quick, and professional.",positive
+I had a relaxing weekend with my family.,positive
+The product comes in three different sizes.,neutral
+Our team missed the deadline because of poor planning.,negative
+My neighbors are helpful whenever I need support.,positive
+The food arrived hot and tasted wonderful.,positive
+My child is excited about learning new things.,positive
+"The food was tasty, and the portions were generous.",positive
+The meeting ended with clear decisions.,positive
+The class was interesting and kept everyone involved.,positive
+The support agent asked for my order number.,neutral
+The children played happily together.,positive
+The neighborhood feels safe and friendly.,positive
+The presentation was engaging and easy to follow.,positive
+The doctor works at the city clinic.,neutral
+My presentation is scheduled for Friday.,neutral
+The acting was weak and the story was confusing.,negative
+The website contains information about the service.,neutral
+The garden flowers wilted after just one day.,negative
+I failed to complete the task before the deadline.,negative
+The coffee machine is on the counter.,neutral
+Our team celebrated the success together.,positive
+The book is available in the school library.,neutral
+The service desk is on the first floor.,neutral
+The new book gave me useful ideas.,positive
+The weekend trip gave me lovely memories.,positive
+The weekend trip was ruined by constant delays.,negative
+The trip was enjoyable and the views were amazing.,positive
+The update was released yesterday.,neutral
+The train ride was comfortable and on schedule.,positive
+Our community worked together and solved the problem.,positive
+The village pond is polluted and smells terrible.,negative
+The food was bland and the portions were tiny.,negative
+The app is easy to use and saves me time.,positive
+My friend helped me when I was feeling low.,positive
+The instructions are printed on the first page.,neutral
+"The instructions were clear, so I finished quickly.",positive
+The support agent gave incorrect instructions.,negative
+The teacher embarrassed the student in front of the class.,negative
+The hotel room was dirty and uncomfortable.,negative
+The app has a settings page.,neutral
+The meeting ended without any decisions.,negative
+I feel nervous because my presentation went badly.,negative
+The bus route passes through the town center.,neutral
+The bus driver was courteous and drove safely.,positive
+The family celebration was full of laughter.,positive
+I am satisfied with the quality of this product.,positive
+The app requires an internet connection.,neutral
+The presentation was confusing and too long.,negative
+The package was damaged and some items were missing.,negative
+I am proud of what our team achieved.,positive
+My weekend was stressful and exhausting.,negative
+The book was inspiring and easy to understand.,positive
+My new phone freezes often and the camera is poor.,negative
+My manager criticized me unfairly and offered no guidance.,negative
+My laptop is fast and handles my work easily.,positive
+The product is useful and worth the money.,positive
+The movie was entertaining and had a wonderful ending.,positive
+The internet connection keeps disconnecting.,negative
+She feels unhappy because her village has become polluted.,negative
+The event was organized very well.,positive
+I spent Sunday at home.,neutral
+My garden is growing well and looks lovely.,positive
+The customer support team solved my issue quickly.,positive
+The book was confusing and repetitive.,negative
+The local market was dirty and the sellers were rude.,negative
+The repair person arrived at noon.,neutral
+The staff made us feel welcome.,positive
+The weather forecast says it may rain.,neutral
+The countryside is beautiful after the rain.,positive
+The website looks great and works well.,positive
+The new timetable makes my commute harder.,negative
+The new feature appears in the settings menu.,neutral
+The trip is planned for next month.,neutral
+I received a careless gift that I cannot use.,negative
+My manager appreciated my work and gave helpful feedback.,positive
+I regretted meeting my old friends because they were unkind.,negative
+The service made the whole process simple.,positive
+The update caused more problems than it fixed.,negative
+The local shop sells groceries and stationery.,neutral
+The support agent patiently guided me through the steps.,positive
+The village road connects two nearby towns.,neutral
+The exam takes place next Wednesday.,neutral
+The customer support team ignored my complaint.,negative
+My child is upset about being left out.,negative
+The weekend trip includes two overnight stays.,neutral
+The new book contained outdated information.,negative
+Our community has a meeting every month.,neutral
+The online course explains difficult topics simply.,positive
+My laptop is slow and overheats during simple tasks.,negative
+The family celebration ended in an argument.,negative
+The staff were unfriendly and made us feel unwelcome.,negative
+The coffee was bitter and unpleasant.,negative
+My shoes are kept near the door.,neutral
+The new recipe turned out better than I expected.,positive
+The trip was miserable because it rained the whole time.,negative
+The team handled the challenge badly.,negative
+The timetable changed at the start of the month.,neutral
+My garden plants are dying despite my efforts.,negative
+The restaurant served cold and tasteless food.,negative
+The event was disorganized and started very late.,negative
+The delivery arrived late and the package was damaged.,negative
+The neighborhood has a public playground.,neutral
+The interview is scheduled for next week.,neutral
+The online course skips important explanations.,negative
+The class was dull and difficult to follow.,negative
+The service was much worse than I expected.,negative
+My hometown makes me feel happy and peaceful.,positive
+The product broke after only two days.,negative
+The project is delayed because of repeated mistakes.,negative
+The neighborhood is noisy and feels unsafe at night.,negative
+The training session was confusing and unhelpful.,negative
+The movie lasts for two hours.,neutral
+The children are playing in the yard.,neutral
+The bus was late and the journey was rough.,negative
+The repair person was friendly and honest.,positive
+I feel confident about my presentation.,positive
+The new timetable makes my day easier.,positive
+The countryside is about thirty kilometers away.,neutral
+My neighbors are noisy and disrespectful.,negative
+My family lives in another city.,neutral
+"The room is dark, cramped, and uncomfortable.",negative
+The garden has a small wooden gate.,neutral
+My child attends the local school.,neutral
+My friend called me in the evening.,neutral
+The new feature is useful and works as expected.,positive
+The garden is full of mosquitoes and unpleasant smells.,negative
+The village pond looks clean and beautiful.,positive
+"The menu includes rice, vegetables, and soup.",neutral
+The train was crowded and arrived hours late.,negative
+The food at the restaurant was delicious.,positive
+"The park is clean, green, and peaceful.",positive
+The weather is pleasant and perfect for a walk.,positive
+My colleagues blame others and refuse to cooperate.,negative
+The family plans to visit relatives in December.,neutral
+The package contains two books.,neutral
+I feel frustrated because nobody responded to my request.,negative
+The customer was pleased with the final result.,positive
+The team handled the challenge brilliantly.,positive
+The school opens at eight in the morning.,neutral
+The market opens early every morning.,neutral
+The meeting was productive and we agreed on a plan.,positive
+The product packaging was neat and secure.,positive
+The task is listed in the weekly plan.,neutral
+The library was noisy and had no available seats.,negative
+The hotel room was clean and comfortable.,positive
+The meeting agenda has three topics.,neutral
+The meeting wasted time and achieved nothing.,negative
+I visited my village last weekend.,neutral
+I love my village because the people are kind.,positive
+The event registration closes tomorrow.,neutral
+My laptop has sixteen gigabytes of memory.,neutral
+I hate how people in my village keep spreading rumors.,negative
+The train stops at five stations.,neutral
+The online course has twelve lessons.,neutral
+The interview went badly and I could not answer several questions.,negative
+The garden is peaceful in the early morning.,positive
+The library is a wonderful place to study.,positive
+The community garden looks beautiful after everyone's effort.,positive
+The concert was too loud and the sound quality was terrible.,negative
+The library has three floors.,neutral
+My hometown is about two hours from the city.,neutral
+My colleagues work in different departments.,neutral
+I really enjoyed the story and the acting.,positive
+The service center is closed on Sundays.,neutral
+The staff work in two shifts.,neutral
+The bus arrived on time and the journey was smooth.,positive
+Our team has five members.,neutral
+I enjoyed spending time with my grandparents in the village.,positive
+My friend ignored me when I needed support.,negative
+The update fixed the problem I had.,positive
+I spent the afternoon with my grandparents.,neutral
+The local shop owner overcharged me.,negative
+I worked on my assignment today.,neutral
+The village pond is near the temple.,neutral
+The recipe turned out awful and tasted burnt.,negative
+The local shop owner treated us kindly.,positive
+The park is dirty and full of litter.,negative
+The weather is awful and ruined our plans.,negative
+The food arrived at twelve thirty.,neutral
+The school teachers encourage every student to do well.,positive
+I feel grateful for the support I received.,positive
+The software was installed on my laptop.,neutral
+The software is reliable and helps me work faster.,positive
+I completed the task successfully before the deadline.,positive
+The book has eight chapters.,neutral
+The instructions were unclear and I made several mistakes.,negative
+I received a thoughtful gift from my friend.,positive
+My family argued all evening and ruined the day.,negative
+Our team meets every Tuesday.,neutral
+The customer support office opens at nine.,neutral
+My new shoes hurt my feet after a few minutes.,negative
+My family always makes me feel loved.,positive
+The community garden is behind the library.,neutral
+The movie was boring and the ending made no sense.,negative
+I enjoyed talking with my old friends.,positive
+My neighbors moved into the house next door.,neutral
+The restaurant is located near the bus station.,neutral
+The coffee was excellent and made my morning.,positive
+I received a package this morning.,neutral
+The teacher shared a worksheet with the class.,neutral
+The room has a desk and two chairs.,neutral
+I feel worried because nothing is going according to plan.,negative
+My new phone works smoothly and has a great camera.,positive
+The local market has fresh vegetables and friendly sellers.,positive
+The internet connection is stable today.,positive
+The presentation has ten slides.,neutral
+The bus leaves at six thirty.,neutral
+The food order includes rice and curry.,neutral
+She lives in a village near the river.,neutral
+The community garden is full of weeds and rubbish.,negative
+The project is progressing smoothly.,positive
+The delivery is scheduled for tomorrow.,neutral
+The exam was difficult and I performed poorly.,negative
+The food arrived cold and spilled inside the bag.,negative
+The training session covers basic computer skills.,neutral
+The customer asked about the delivery date.,neutral
+The villagers welcomed us with warm smiles.,positive
+The village festival was poorly organized and crowded.,negative
+My new shoes are comfortable for long walks.,positive
+"The service was rude, slow, and unprofessional.",negative
+She loves her village and feels proud of its traditions.,positive
+The website loads slowly and has broken links.,negative
+The villagers ignored our request for help.,negative
+I appreciate how everyone helped during the event.,positive
+The garden flowers look bright and healthy.,positive
+The village festival starts on Saturday.,neutral
+The doctor listened carefully and explained everything clearly.,positive
+The teacher praised my improvement.,positive
+I slept well and woke up feeling refreshed.,positive
+The meeting is scheduled for three o'clock.,neutral
+The meal tasted fresh and was served with care.,positive
+The app opened quickly and did not crash.,positive
+I am unhappy with the poor quality of this product.,negative
+The internet router is beside the television.,neutral
+The doctor rushed through the appointment and ignored my questions.,negative
+My work schedule was updated this morning.,neutral
+The project has four main sections.,neutral
+The package was carefully packed and arrived safely.,positive
+The concert was lively and the musicians were excellent.,positive
+The repair person was careless and left a mess.,negative
+The product packaging was torn and poorly sealed.,negative
+The garden is watered every evening.,neutral
+My work received harsh criticism with no explanation.,negative
+The countryside was covered in smoke and rubbish.,negative
+The room has plenty of light and feels welcoming.,positive
+The village road has improved and travel is easier now.,positive
+The park closes at sunset.,neutral
+I woke up at six today.,neutral
+I learned something valuable from the class.,positive
+The children kept fighting and would not listen.,negative
+The class has twenty students.,neutral
+The teacher unfairly blamed me for someone else's mistake.,negative
+The repair appointment is booked for Monday.,neutral
+Nobody helped when the event became chaotic.,negative
+The app is difficult to use and keeps crashing.,negative
+The customer was angry about the unfinished work.,negative
+I feel optimistic about the future.,positive
+My work received positive feedback.,positive
+My phone has a six-inch screen.,neutral
+I learned nothing from the class.,negative
+The report contains data from last month.,neutral
+The training session was clear and useful.,positive
+The app takes forever to open and often crashes.,negative
+The interview went well and I answered confidently.,positive
+Our community argued and failed to solve the problem.,negative
+I sent a message this morning.,neutral
+The trip to my hometown was stressful and disappointing.,negative
+The food was delicious.,positive
+This food tastes delicious.,positive
+The meal was absolutely delicious.,positive
+I loved the delicious food.,positive
+The restaurant served delicious meals.,positive
+I hate the service.,negative
+I really hate this service.,negative
+The service was terrible.,negative
+I am unhappy with the service.,negative
+I hate how poorly they treated me.,negative
+The food was ordinary.,neutral
+The meal was served at noon.,neutral
+I ordered food from the restaurant.,neutral
+The service is available every day.,neutral
+I contacted customer service yesterday.,neutral
+I hate waiting for the bus.,negative
+I hate waiting in long queues.,negative
+I hate missing the bus every morning.,negative
+I hate how late the bus arrives.,negative
+I hate traveling when the bus is overcrowded.,negative
+I hate wasting time waiting for transport.,negative
+I dislike waiting for the bus in the rain.,negative
+Waiting for the bus makes me frustrated,negative
+I am annoyed because the bus is late again.,negative
+I am tired of waiting for unreliable buses.,negative
+I bought a phone yesterday.,neutral
+I purchased a new mobile phone.,neutral
+I bought a laptop from the store.,neutral
+I am unhappy with the service,negative
+I am very unhappy with the customer service,negative
+I feel unhappy about this experience.,negative
+This product works perfectly.,positive
+The product is working perfectly.,positive
+My new phone works perfectly.,positive
+I am disappointed with the poor service.,negative
+I am proud of my work.,positive
+My teacher explained the lesson clearly.,positive
+The train journey was comfortable,positive
+The shopkeeper helped me politely,positive
+I enjoyed spending time in the park.,positive
+My team completed the project successfully.,positive
+The hospital staff treated us kindly,positive
+I am excited about my new course.,positive
+The hotel room was clean and comfortable.,positive
+I had a wonderful day with my friends.,positive
+I struggled to understand the lesson,negative
+The train was delayed for three hours.,negative
+The shopkeeper was rude to me.,negative
+I lost my wallet during the journey.,negative
+My team failed to finish the project.,negative
+The hospital service was disappointing.,negative
+I am worried about my examination results.,negative
+The hotel room was dirty and uncomfortable.,negative
+My computer crashed while I was working.,negative
+I had a terrible experience at the restaurant,negative
+I attended a meeting this morning.,neutral
+My examination is scheduled for Monday.,neutral
+The train arrived at platform three.,neutral
+I purchased a notebook from the shop.,neutral
+My team has five members.,neutral
+The hospital is located near the bus station.,neutral
+I enrolled in a computer course.,neutral
+The hotel is on the main road.,neutral
+My computer has eight gigabytes of RAM.,neutral
+The restaurant serves breakfast from seven AM.,neutral
+I went to the office this morning.,neutral
+I arrived at work early today.,neutral
+I attended my regular office meeting,neutral
+I travelled to the office by bus,neutral
+I completed my usual office tasks,neutral
+I had a productive day at work.,positive
+I enjoyed working with my colleagues,positive
+I had a stressful morning at the office.,negative
+I was unhappy with my work experience today.,negative
+I had a difficult day at work,negative
+I struggled to understand the lesson.,negative
+I struggled to complete my assignment.,negative
+I found the lesson difficult to understand,negative
+The explanation was confusing and unclear.,negative
+I failed to understand the instructions.,negative
+Learning this topic was frustrating.,negative
+I had difficulty solving the problem,negative
+The class was confusing and stressful.,negative
+I could not understand the teacher's explanation.,negative
+The assignment was too difficult for me.,negative
+The product stopped working after one day.,negative
+My product stopped functioning after one day.,negative
+The device stopped working unexpectedly.,negative
+My new phone broke after its first use.,negative
+The product became unusable after one day.,negative
+I am disappointed because the product stopped working.,negative
+The device failed shortly after I purchased it.,negative
+My newly purchased product is broken,negative
+The product is faulty and does not work.,negative
+We are having a party tonight.,neutral
+The service was excellent and the staff were helpful.,positive
+The service was terrible and the staff were unhelpful.,negative
+The food was delicious and freshly prepared.,positive
+The food was tasteless and poorly prepared.,negative
+The product works perfectly without any issues.,positive
+The product works poorly and frequently crashes.,negative
+The staff were friendly and treated everyone kindly.,positive
+The staff were rude and treated customers badly.,negative
+The experience was enjoyable and memorable.,positive
+The experience was disappointing and frustrating.,negative
+I don't like this product.,negative
+This movie isn't interesting.,negative
+The application doesn't work properly.,negative
+I am not satisfied with the customer service.,negative
+I never recommend product with poor quality.,negative
+I don't hate this movie.,positive
+The product isn't bad at all.,positive
+I didn't expect such excellent service.,positive
+This application is not difficult to use.,positive
+I am not disappointed with the results.,positive
+I don't know when the meeting starts.,neutral
+The store isn't open on Sundays.,neutral
+I didn't attend the morning meeting.,neutral
+The bus doesn't stop near my office.,neutral
+I have never visited that restaurant.,neutral
+"I don't enjoy using this application.",negative
+"The application is not working correctly.",negative
+"I am disappointed with the customer service.",negative
+"I didn't like the food at the restaurant.",negative
+"The product stopped working after one day.",negative
+"I really enjoyed using this application.",positive
+"The customer service was excellent and helpful.",positive
+"I am very satisfied with this product.",positive
+"The food at the restaurant was delicious.",positive
+"The update fixed all the problems.",positive
+"I use this application every morning.",neutral
+"The restaurant is located near my office.",neutral
+"I received the product yesterday.",neutral
+"The customer service department opens at nine.",neutral
+"I attended a meeting with my manager.",neutral
+"The trip was enjoyable and the views were amazing.",positive
+"I am extremely happy with my new laptop.",positive
+"My teacher explained every topic clearly.",positive
+"The application is simple and convenient to use.",positive
+"The customer support team solved my problem quickly.",positive
+"I had a wonderful experience with my family.",positive
+"The food was delicious and the service was excellent.",positive
+"My work received excellent feedback from my manager.",positive
+"The garden looks beautiful with colorful flowers.",positive
+"I am proud of the progress I have made.",positive
+"The delivery arrived on time and the packaging was perfect.",positive
+"I enjoyed learning new skills during the training.",positive
+"The hotel room was clean, comfortable and spacious.",positive
+"This product is reliable and works perfectly.",positive
+"The instructions were clear and easy to follow.",positive
+"I love spending time with my family.",positive
+"I love my hometown because it is peaceful.",positive
+"She loves her village and its friendly people.",positive
+"The people in my village are kind and helpful.",positive
+"My neighbors are kind and always support me.",positive
+"I love the beautiful nature around my village.",positive
+"My friends are loving, caring and supportive.",positive
+"The villagers welcomed us with kindness.",positive
+"I love visiting places where people are friendly.",positive
+"Living in my village makes me happy.",positive
+"I am not satisfied with the quality.",negative
+"The service is not good at all.",negative
+"I don't enjoy using this application.",negative
+"Despite the discount, I was unhappy with my purchase.",negative
+"The product is useful, but its battery life is terrible.",negative
+"I have no issues with the product.",positive
+"The service was not disappointing; it was excellent.",positive
+"I cannot complain about the quality.",positive
+"Although delivery was slow, the product is wonderful.",positive
+"I am not unhappy with the results.",positive
+"The movie was average and ordinary.",neutral
+"The weather is neither hot nor cold.",neutral
+"The meeting was okay and lasted one hour.",neutral
+"Nothing unusual happened during the day.",neutral
+"The report contains both positive and negative observations.",neutral
+"The customer support was not helpful.",negative
+"The quality of this product is not good.",negative
+"The customer support team resolved my issue quickly.",positive
+"I am pleased with the quality of this product.",positive
+"Nothing unexpected happened during the meeting.",neutral
+"The application requires an internet connection to operate.",neutral
+"I regret spending my money on this purchase.",negative
+"The staff were completely unhelpful during my visit.",negative
+"The room was much worse than I expected.",negative
+"I am dissatisfied with the quality of the service.",negative
+"The purchase turned out better than I expected.",positive
+"I am extremely pleased with the quality.",positive
+"The staff made my experience wonderful.",positive
+"This product exceeded all my expectations.",positive
+"The hotel is located near the railway station.",neutral
+"The product comes in three different sizes.",neutral
+"The office is closed on Sundays.",neutral
+"The package was delivered on Wednesday.",neutral
+"The quality of the room was below what I expected.",negative
+"The performance fell below acceptable standards.",negative
+"The product failed to meet my expectations.",negative
+"The service was disappointing and not worth the price.",negative
+"The final result was much better than anticipated.",positive
+"The quality exceeded everything I had hoped for.",positive
+"The staff performed better than I could have imagined.",positive
+"The product turned out to be surprisingly wonderful.",positive
+"The report was submitted earlier than expected.",neutral
+"The meeting lasted longer than expected.",neutral
+"The hotel is located below the shopping centre.",neutral
+"The package arrived as scheduled.",neutral
+"I wasn't expecting such a wonderful experience.",positive
+"The replacement product works without any problems.",positive
+"I cannot complain about the excellent service.",positive
+"The update did not cause any issues and improved performance.",positive
+"I never thought the results would be this impressive.",positive
+"The replacement did not solve the original problem.",negative
+"I couldn't finish the task because the application kept crashing.",negative
+"The staff were not polite during my visit.",negative
+"I never received the support that I was promised.",negative
+"The food was not fresh and tasted unpleasant.",negative
+"I did not attend the training session yesterday.",neutral
+"The office is not open on public holidays.",neutral
+"I haven't checked the latest delivery status.",neutral
+"The report does not include the previous month's data.",neutral
+"The train does not stop at this station after midnight.",neutral
+"The presentation was not boring and kept everyone interested.",positive
+"The instructions were not confusing and were easy to follow.",positive
+"The service was not reliable and failed serveral times.",negative
+"The food was not fresh and smelled unpleasant.",negative
+"I did not renew my membership this month.",neutral
+"The shop is not open on Monday morning.",neutral
+"The restaurant served tasty food and excellent desserts.",positive
+"The performance was brilliant and entertaining.",positive
+"The customer support team was helpful throughout the process.",positive
+"The instructions were confusing and not helpful.",negative
+"My son felt upset after losing his favourite toy.",negative
+"The delivery was delayed and the package never arrived.",negative
+"The streets were noisy throughout the night.",negative
+"The hotel room was uncomfortable and poorly maintained.",negative
+"The meal was ordinary and nothing special.",neutral
+"The restaurant offers lunch and dinner every day.",neutral
+"The package arrived safely and was in perfect condition.",positive
+"The garden looks bright and full of healthy flowers.",positive
+"The journey was smooth and we reached on time.",positive
+"The staff handled everything carefully and professionally.",positive
+"The package arrived damaged and several items were missing.",negative
+"The garden looks dry and the flowers are unhealthy.",negative
+"The journey was rough and we reached very late.",negative
+"The instructions were confusing and difficult to follow.",negative
+"The staff handled everything carelessly and unprofessionally.",negative
+"The package arrived at the reception desk.",neutral
+"The garden has flowers of different colors.",neutral
+"The journey started at eight in the morning.",neutral
+"The instructions contain five separate sections.",neutral
+"The staff completed the inspection yesterday.",neutral

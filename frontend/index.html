@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Sentiment Analysis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>AI Sentiment Analysis System</h1>
+
+    <p class="description">
+        Enter a sentence or customer review to discover
+        whether its sentiment is positive, negative, or neutral.
+    </p>
+
+    <textarea
+        id="textInput"
+        rows="5"
+        maxlength="1000"
+        placeholder="Example: I really love this product..."
+    ></textarea>
+
+   <div class="examples">
+    <p>Try an example:</p>
+
+    <button type="button" class="example-button"
+        data-text="I absolutely love this product. It works perfectly!">
+        😊 Positive
+    </button>
+
+    <button type="button" class="example-button"
+        data-text="The service was very disappointing.">
+        😞 Negative
+    </button>
+
+    <button type="button" class="example-button"
+        data-text="The meeting is scheduled for tomorrow.">
+        😐 Neutral
+    </button>
+</div>
+
+    <p id="characterCount" class="character-count">
+        0 / 1000 characters
+    </p>
+
+    <div class="button-container">
+        <button id="analyzeButton" type="button">
+            Analyze Sentiment
+        </button>
+
+        <button id="clearButton" type="button">
+            Clear
+        </button>
+    </div>
+
+   <h2 style="margin-top: 25px;">Analysis Result</h2>
+
+<div id="resultContainer" class="result-container">
+    <p id="result" class="result">
+        Please enter some text to analyze.
+    </p>
+</div>
+
+<div id="scores" class="scores" style="display: none;">
+    <h3>Sentiment Probability Scores</h3>
+
+    <div class="score-item">
+        <span>Positive</span>
+        <span id="positiveScore">0%</span>
+    </div>
+
+    <div class="score-item">
+        <span>Negative</span>
+        <span id="negativeScore">0%</span>
+    </div>
+
+    <div class="score-item">
+        <span>Neutral</span>
+        <span id="neutralScore">0%</span>
+    </div>
+</div>
+
+<button
+    type="button"
+    id="copyButton"
+    style="display: none;"
+>
+    Copy Result 
+</button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
